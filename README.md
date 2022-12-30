@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l1J3ThqHNWUVtZV1m/giphy.gif" width="1100px" height="300px">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1100px" height="300px">
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is Carlos Rodríguez.
 ### 𝐼𝑛𝑓𝑜𝑟𝑚𝑎𝑡𝑖𝑜𝑛 𝑇𝑒𝑐𝘩𝑛𝑜𝑙𝑜𝑔𝑦 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟.
